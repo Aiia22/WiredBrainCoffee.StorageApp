@@ -1,0 +1,15 @@
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/bin/Debug/net6.0/WiredBrainCoffee.StorageApp
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/bin/Debug/net6.0/WiredBrainCoffee.StorageApp.deps.json
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/bin/Debug/net6.0/WiredBrainCoffee.StorageApp.runtimeconfig.json
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/bin/Debug/net6.0/WiredBrainCoffee.StorageApp.dll
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/bin/Debug/net6.0/WiredBrainCoffee.StorageApp.pdb
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/obj/Debug/net6.0/WiredBrainCoffee.StorageApp.csproj.AssemblyReference.cache
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/obj/Debug/net6.0/WiredBrainCoffee.StorageApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/obj/Debug/net6.0/WiredBrainCoffee.StorageApp.AssemblyInfoInputs.cache
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/obj/Debug/net6.0/WiredBrainCoffee.StorageApp.AssemblyInfo.cs
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/obj/Debug/net6.0/WiredBrainCoffee.StorageApp.csproj.CoreCompileInputs.cache
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/obj/Debug/net6.0/WiredBrainCoffee.StorageApp.dll
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/obj/Debug/net6.0/refint/WiredBrainCoffee.StorageApp.dll
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/obj/Debug/net6.0/WiredBrainCoffee.StorageApp.pdb
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/obj/Debug/net6.0/WiredBrainCoffee.StorageApp.genruntimeconfig.cache
+/Users/tatianaleclerc/Documents/6-Programming Courses/C#_Worplace/WiredBrainCoffee.StorageApp/obj/Debug/net6.0/ref/WiredBrainCoffee.StorageApp.dll
